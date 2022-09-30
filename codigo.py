@@ -115,14 +115,7 @@ def Dataframe(Param, ter):
 
 
 
-
 # -------------------------------------- FUNCTIONS ---------------------------------------------------------------
-
-
-
-
-
-
 
 
 # A stereo audio file is separated into two channels: L and R.
@@ -458,3 +451,14 @@ def Clarityparam(IRfilt, Fs, lb):
     C80 = np.round(C80,2)
     
     return C50, C80
+
+
+
+
+
+
+
+
+
+    
+
