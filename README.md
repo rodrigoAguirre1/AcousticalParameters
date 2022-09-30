@@ -1,8 +1,5 @@
-# Test repository
-Stoy ke pruebo pe kgada
+# Acoustical Parameters
 
 
 
-
-This is feature 2
-This is the branch feature1
+Esto es un código de Python para calcular los parámetros acústicos de una respuesta al impulso.
